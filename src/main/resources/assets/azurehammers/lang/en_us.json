@@ -1,0 +1,11 @@
+{
+  "item.azurehammers.iron_hammer": "Iron Hammer",
+  "item.azurehammers.gold_hammer": "Gold Hammer",
+  "item.azurehammers.diamond_hammer": "Diamond Hammer",
+  "item.azurehammers.netherite_hammer": "Netherite Hammer",
+
+  "creativetab.azurehammers.azure_hammers": "Azure's Hammers",
+
+  "tooltip.azurehammers.hammer_items.tooltip_shift": "Mining 3x3 blocks.",
+  "tooltip.azurehammers.hammer_items.tooltip": "Press §eShift§r for more Information."
+}

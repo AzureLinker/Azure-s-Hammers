@@ -1,0 +1,11 @@
+{
+  "item.azurehammers.iron_hammer": "Железный Молот",
+  "item.azurehammers.gold_hammer": "Золотой Молот",
+  "item.azurehammers.diamond_hammer": "Алмазный Молот",
+  "item.azurehammers.netherite_hammer": "Незеритовый Молот",
+
+  "creativetab.azurehammers.azure_hammers": "Azure's Hammers",
+
+  "tooltip.azurehammers.hammer_items.tooltip_shift": "Данный инструмент вскапывает блоки в раудиусе 3х3 блока.",
+  "tooltip.azurehammers.hammer_items.tooltip": "Нажмите §eShift§r, чтобы увидеть больше Информации."
+}
